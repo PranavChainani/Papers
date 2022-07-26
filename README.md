@@ -8,5 +8,5 @@ Used 17 years of data, differentiation, modeling, and curve fitting to determine
 Detailed specification and analysis of execution techniques for a conceptual product: The Laptop Charger Shield. Used 
 Computer Aided Design to create a 3D model of the product. [Design Specifcation for Charger Shield](https://github.com/PranavChainani/Papers/blob/84708539539d4e3bf2edc9fe7009b89c3a523a7b/ChargerShieldDesignSpec.pdf)
 
-## Paper: The Impact of Light on the Broning Process of Apples
+## Paper: The Impact of Light on the Browning Process of Apples
 Used linear regression to analyze the correlation between light absorption and the discoloration of an apple. Controlled experiments and data analysis using a Colorimeter and its software. [The Impact of Light on the Browning Process of Apples](https://github.com/PranavChainani/Papers/blob/25752159c7e107f81b7fbed0547cfd006f25ec91/BrowningApples.pdf)
