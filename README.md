@@ -1,5 +1,5 @@
 **Papers**
-Math, Science and Technology Papers by Pranav Chainani
+Math, Science, Business and Technology Papers by Pranav Chainani
 
 ## Paper: Modelling Change in Acceleration of the Melting Greenland Ice Sheet 
 Used differentiation, modeling, and curve fitting on 17 years of data to determine the change in melting rate. Outcome: Created a regression model to demonstrate the plateauing rate of change. [Modelling Change in Acceleration of the Melting Greenland Ice Sheet](https://github.com/PranavChainani/Papers/blob/3bc178eb6b3d76d3dfc002aafdd356e148b8c1da/MeltingIceSheet.pdf)
