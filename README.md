@@ -15,9 +15,9 @@ Analyzed how the 2008 Subprime Mortgage Lending Crisis created an envirionment t
 
 ## Paper: Should Coca-Cola Discontinue the Use of Plastic in their Packaging?
 Utilizing a variety of risk assessment, decision-making, and competition assessment tools, this paper outlines whether Coca-Cola should deviate from plastic packaging due to its harmful global impact. [Should Coca-Cola Discontinue the Use of Plastic in their Packaging?]
-https://github.com/PranavChainani/Papers/blob/423a78702f58b0431ce83d4d8c09b68246c4656c/Coca-Cola%20Plastic%20Packaging.docx.pdf
+(https://github.com/PranavChainani/Papers/blob/423a78702f58b0431ce83d4d8c09b68246c4656c/Coca-Cola%20Plastic%20Packaging.docx.pdf)
 
 ## Paper: The Impact of Paying Basketball Student-Athletes on the NCAA Brand?
 Utilizing a variety of risk assessment, decision-making, and competition assessment tools, this paper outlines whether the NCAA should allow athletes should be paid despite the possible impact on their brand image that promotes amateurism. [The Impact of Paying Basketball Student-Athletes on the NCAA Brand]
-https://github.com/PranavChainani/Papers/blob/097ecc9b7dc93d4a200fe1b371bee1adcc180e35/Paying%20NCAA%20players.docx.pdf
+(https://github.com/PranavChainani/Papers/blob/097ecc9b7dc93d4a200fe1b371bee1adcc180e35/Paying%20NCAA%20players.docx.pdf)
 
