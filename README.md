@@ -1,6 +1,13 @@
 **Papers**
 Math, Science, Business and Technology Papers by Pranav Chainani
 
+## Paper: Automated Ultrasound Substructure Localization  
+Worked with the Maternal Health Foundation to explore how large language models can assist in labeling fetal brain ultrasound images in low-resource settings. Outcome: Built and tested an LLM-based system that classified seven fetal brain substructures and explored ways to improve precision and recall. [Automated Ultrasound Substructure Localization](./papers/automated-ultrasound-localization/Automated%20Ultrasound%20Substructure%20Localization.pdf)  
+
+## Paper: AI in Embedded Systems  
+Researched how artificial intelligence is being integrated into embedded systems, including TinyML, Edge AI, and neuromorphic computing. Outcome: Produced a state-of-the-field paper covering hardware, algorithms, applications, limitations, and future directions of AI-enabled embedded platforms. [AI in Embedded Systems](./papers/ai-in-embedded-systems/AI%20in%20Embedded%20Systems.pdf)  
+
+
 ## Paper: Modelling Change in Acceleration of the Melting Greenland Ice Sheet 
 Used differentiation, modeling, and curve fitting on 17 years of data to determine the change in melting rate. Outcome: Created a regression model to demonstrate the plateauing rate of change. [Modelling Change in Acceleration of the Melting Greenland Ice Sheet](https://github.com/PranavChainani/Papers/blob/3bc178eb6b3d76d3dfc002aafdd356e148b8c1da/MeltingIceSheet.pdf)
 
